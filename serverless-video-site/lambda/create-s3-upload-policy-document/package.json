@@ -16,7 +16,7 @@
     "crypto": "0.0.3",
     "log": "^1.4.0"
   },
-  "author": "Peter Sbarski",
+  "author": "",
   "license": "BSD-2-Clause",
   "devDependencies": {
     "run-local-lambda": "^1.1.0"
