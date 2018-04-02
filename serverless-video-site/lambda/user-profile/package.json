@@ -10,7 +10,7 @@
   "dependencies": {
     "request": "^2.69.0"
   },
-  "author": "Peter Sbarski",
+  "author": "",
   "license": "BSD-2-Clause",
   "devDependencies": {
     "run-local-lambda": "^1.0.0"
